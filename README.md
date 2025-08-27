@@ -1,6 +1,10 @@
 # Minesweeper
 
 This is a classic command-line implementation of the Minesweeper game written in Python.
+<img width="652" height="463" alt="image" src="https://github.com/user-attachments/assets/ac9ccde8-3b0d-4fde-bc21-8ae8f978a70f" />
+
+<img width="650" height="729" alt="image" src="https://github.com/user-attachments/assets/0de9ad74-626c-4867-8d13-26cbc07ea823" />
+
 
 ## How to Play
 
